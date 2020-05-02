@@ -1,5 +1,5 @@
 # LAN_only_mode
-For disconnecting from the internet but still be connected to LAN.
+For disconnecting from the internet but still be connected to LAN.(LAN only offline mode)
 
 There are some scenarios in which you need to be connected to the LAN but not the internet(LAN only offline mode)
 
