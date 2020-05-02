@@ -8,4 +8,5 @@ https://answers.microsoft.com/en-us/insider/forum/all/how-to-disconnect-pc-from-
 
 "Restore internet.bat" changes the DNS back to the specified DNS server.
 
+note: works only when both batch files are **RUN AS ADMIN**
 some applications which do not rely on domain name to ip conversion might still work after changing to a invalid DNS server.
